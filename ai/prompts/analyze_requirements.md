@@ -1,0 +1,4 @@
+Utilizamos DeepSeek:
+
+Prompt:
+Actúa como un Senior QA Engineer especializado en pruebas estáticas y analiza el siguiente texto de especificaciones para identificar ambigüedades técnicas, presentando los hallazgos exclusivamente en un formato de lista de ítems detallados (sin tablas). Por cada error detectado, indica el fragmento exacto, la categoría del riesgo (como límites difusos, sujetos tácitos o métricas subjetivas), una breve explicación de cómo un desarrollador y un tester podrían interpretar la misma frase de formas opuestas, y una redacción técnica sugerida que incluya criterios de aceptación cuantificables y verificables. Enfócate especialmente en eliminar adjetivos vagos como "rápido" o "eficiente", condicionales sin un caso "else" definido y el uso de voz pasiva que oculte al componente responsable de la acción, asegurando que cada requerimiento sea atómico y testeable.

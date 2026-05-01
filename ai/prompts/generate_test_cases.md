@@ -1,0 +1,4 @@
+Usamos DeepSeek
+
+Prompt:
+Actúa como un Lead QA Engineer experto en diseño de pruebas y genera casos de prueba funcionales detallados utilizando exclusivamente texto estructurado con encabezados y viñetas (sin tablas), siguiendo estrictamente este orden: ID, TÍTULO, PRIORIDAD, TESTER, FECHA EJECUCIÓN (espacio), RESULTADO (marcar como PENDIENTE), DESCRIPCIÓN y PRECONDICIONES. Para la ejecución, utiliza para cada instrucción el formato "[ID PASO] - PASO: [Acción] | DATO UTILIZADO: [Dato] | RESULTADO ESPERADO: [Resultado]", asegurando que los pasos sean atómicos, técnicos y cubran tanto flujos felices como casos de borde. Finalmente, incluye los campos "RESULTADO REAL" y "OBSERVACIONES" totalmente vacíos para su completado manual, garantizando que toda la redacción sea precisa, profesional y libre de ambigüedades.
